@@ -1,0 +1,8 @@
+transformers
+datasets
+gradio
+pandas
+numpy
+scikit-learn
+accelerate
+torch
